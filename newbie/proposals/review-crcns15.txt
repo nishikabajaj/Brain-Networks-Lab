@@ -1,0 +1,404 @@
+
+
+For the FY16 review cycle, the Division of Information and Intelligent Systems received 218 proposals describing 159 unique projects that complied with the requirements of the CRCNS solicitation (http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf15595). 
+
+Review panels for this competition met on January 19-20, 2016 to review these projects. Written reviews of each proposal were provided by at least three reviewers. Each rated the merit of the proposal as Excellent, Very Good, Good, Fair, or Poor. In addition, a summary of the panel's discussion was drafted by a member of the panel and refined and finalized in consultation with the rest of the panel. Based on written reviews and panel discussion, the panel as a whole decided on one of two funding recommendations: Fund if Possible or Not Recommended for Funding. In this competition, 45 projects (28%) were placed in the Fund if Possible category; the remaining 114 projects (72%) were not realistically seen as competitive, and thus were not recommended for funding by the panel. Individual panel summaries provide further qualitative information about a proposal's strengths and weaknesses within these two recommendation categories. The panels also provided scores for use by NIH. 
+
+Merit review is a critical component of the National Science Foundation's decision-making process for funding research and education projects. Through use of rigorous, competitive merit review, NSF maintains high standards of excellence and accountability. It enables investments in projects that couple the best ideas from the most capable researchers and educators, with the advancement of discovery and learning and the enrichment of the science and engineering resources. The merit review criteria for this competition --Intellectual Merit, Broader Impacts, and Quality of Collaboration -- are described further in the solicitation (http://www.nsf.gov/pubs/2015/nsf15595/nsf15595.htm#reviewcrit). 
+
+Please refer to the Reviews section above for copies of the reviews and a panel summary, if applicable (on FastLane at https://www.fastlane.nsf.gov/jsp/homepage/proposals.jsp). In reading them, please keep in mind that reviewers are addressing their comments primarily to the funders, not necessarily to you. They sometimes make remarks without giving detailed references or providing specific suggestions for improvement, although we try to encourage reviewers to provide such helpful information. 
+
+Decisions about particular proposals are often very difficult, and factors other than reviewer comments and ratings enter into the decision. Maintaining appropriate balance among subfields, the availability of other funding, the total amount of funds available to the program for new and renewal proposals, and general agency policies are also important decision factors. 
+
+We encourage revised and resubmitted proposals that substantially address reviewer comments. Investigators are welcome to seek the advice of the Program Director before preparing resubmissions, but they should be aware that the Foundation will treat the revised proposal as a new proposal, subject to the standard review procedures. Information about reconsideration of declined proposals is found in NSF's Grant Proposal Guide (Chapter IV), which should be available at your institution, usually at the office that submitted your proposal, or on the Web at http://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/gpg_4.jsp#IVD. 
+
+Please note that current IIS program descriptions, proposal submission deadlines, and other information items can be found on the web at http://www.nsf.gov/div/index.jsp?div=IIS. We also encourage examination of the NSF information at http://www.nsf.gov/ for announcements of new NSF-wide funding opportunities and other items of interest to research community. 
+
+If you would like more information about the decision on your proposal, or for assistance in interpreting the comments, please contact any of the CRCNS Program Officers listed in the Program Solicitation to schedule a discussion. Information about the CRCNS program is available on the web at http://www.nsf.gov/crcns/.
+
+
+
+////////////////////////////////////////////////////////////////////////////
+
+	
+Panel Summary #1
+
+￼
+￼
+Proposal Number: 1608123
+
+Panel Summary: 
+Panel Summary 
+
+
+This is a proposal to understand the common underlying computational principles underlying visual and tactile texture processing, using the mouse as a model. The work will include behavioral studies, single-unit electrophysiological studies, and modeling studies. 
+
+INTELLECTUAL MERIT (Strengths and Weaknesses) 
+
+Strengths: The overall goal, of understanding the broad computational principles underlying cortical function, is one of the central goals of systems neuroscience, and substantial progress would therefore have major impact. The proposal to study texture discrimination in visual and tactile modalities in the mouse, making use of behavioral and electrophysiological experiments along with computational modeling, provides a conceptually strong foundation. 
+
+Weaknesses: 
+
+While there is good evidence from other labs that mice can perform texture discrimination in the tactile domain, was no evidence that the investigators could record from the appropriate area of S1 in mouse. 
+
+It is also not clear that the investigators will be able to train mice to perform texture discrimination in the visual domain. The severely limited visual acuity of the mouse suggests that their ability to visually discriminate textures cannot be assumed. 
+
+Single-unit analysis will be carried out in the urethane-anesthetized animal whereas the detailed modeling will attempt to relate these responses to ensemble firing patterns in the alert, behaving animal. Drawing inferences about the circuitry (or understanding the meaning of model success or failure) would seem to be severely confounded by the possible effects of anesthesia and task. 
+
+The proposed computational models seemed unrealistic to implement, and unclear what would be gained over existing, more detailed simulations of the human brain project. 
+
+The behavioral studies will addresses the question, 'can the mouse be trained to distinguish [visual and somatic] texture' which is far removed from the physiologic and computational goals to determine general principles and mechanisms for neural encoding of visual and somatic texture statistics (e.g. power law distributions). 
+
+The different components of the proposal (behavior, physiology, anatomy and computation) are not well integrated. There are too many 'tasks' outlined making it difficult to have confidence in the success of the proposal, which overall was perceived by the panel as being overly ambitious. 
+
+
+
+BROADER IMPACTS (Strengths and Weaknesses) 
+
+Undergraduate students will be trained. The project team's prior REU students included several from underrepresented groups and it is expected that this trend will continue 
+
+Data Management: Adequate. 
+
+
+QUALITY AND VALUE OF COLLABORATION (Strengths and Weaknesses) 
+
+
+All collaborators were perceived as well qualified and added value to the proposal. All participants are within 15 min by car, and meetings are planned at weekly, monthly, semester, and annual intervals. 
+
+IMPACT OF PRIOR NSF- OR CRCNS-FUNDED RESEARCH 
+
+PI Choe has previous CRCNS support for data-sharing and development of a 3D browser for mouse brain neural and vascular morphology. PI Li has had NSF support for testing analog IC's. Co-PI Smotherman is in the first year of NSF support for a project to understand how bats avoid interference from each others' sonar. 
+
+
+PANEL RECOMMENDATION AND RATIONALE 
+The panel did not recommend this proposal for funding due to problems with the conceptual design of the proposal as well as the lack of adequate detail covering key project elements. 
+
+This summary was read by the panel and the panel concurred that it accurately reflects the panel discussion.
+
+
+Panel Recommendation: Not Recommended for Funding
+
+////////////////////////////////////////////////////////////////////////////
+
+	
+Review #1
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1608123
+
+NSF Program:
+
+ 
+
+CRCNS
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+CRCNS: Collaborative Research: Common Computational Principles Underlying Texture Processing in Vision and Touch
+
+Rating:
+
+ 
+
+Poor
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+1. Significance and intellectual merit. 
+Strengths: A primary goal of this proposal is to define general principles for sensory cortical encoding of texture. The collaborative project examines perception and neural coding of texture using behavioral, physiological, anatomical and computational approaches. Pilot data show beautifully that the physiologic responses to visual and somatic textures follow a power law mirroring the stimulus statistics. Simulations in Fig. 12 highlight interesting relationship between the texture distributions and human thresholds. 
+
+2. Project Summary. See 'weaknesses' section below. 
+
+3. STRENGTHS: Innovation-Experimental. Comparing texture responses across multiple sensory domains and cortices is important and innovative as few laboratories do this. 
+
+4. STRENGTHS: Innovation-Computational. The simulations support a working hypothesis regarding predictions of texture discrimination thresholds and texture components. 
+
+5. STRENGTHS: Approach-Experimental. See 'weaknesses' section below. 
+
+6. STRENGTHS: Approach-Computational. It interesting that using the sensory statistics you can predict perceptual thresholds and the approach to demonstrating neural response discrimination seems to work (Fig. 13). 
+
+7. STRENGTHS: Investigators. All investigators have been productive and are experts the respective project areas. 
+
+8. STRENGTHS: Institutes. Texas A & M is an excellent research and teaching environment. 
+
+9. WEAKNESSES: Rationale, Design, Approach-Computational. The different components of the proposal (behavior, physiology, anatomy and computation) are not well integrated. There are two many 'tasks' outlined making it difficult to address your primary goal. The behavior (D.1) addresses the question, 'can the mouse be trained to distinguish [visual and somatic] texture' which is far removed from the physiologic and computational goals to determine general principles and mechanisms for neural encoding of visual and somatic texture statistics (e.g. power law distributions). The grant would be improved if greatly simplified. The behavior should be meaningfully related to the physiology and computation or removed. The physiologic responses to 2D/3D (D.2.Task2) should wait until the initial simple story illustrated in pilot data of Fig. 11 and Fig. 12 is explained. The physiological recording of visual and somatic responses to texture could be in anesthetized as shown with pilot but are preferably done in actively sensing mouse (especially since you plan to use a wireless recording system). The anatomy outlined in D.3. cannot possibly address the primary goals and hypotheses. Finally, the computational component seems to be largely analysis as opposed to theory or application driven. 
+
+10. DATA MANAGEMENT PLAN. Standard. 
+
+11. MENTORING PLAN. There is a plan for summer students provided. 
+
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+BROADER IMPACT 
+Strengths. Undergraduate students will be trained as part of this grant supplement. The project team's prior 
+REU students included several from the underrepresented group (REU: 1 native American and 1 
+female; Other funding: 1 Hispanic and 2 female), and it is expected that this trend will continue 
+Weaknesses. Specific aims and means of judging outcome could be listed. 
+
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+SUMMARY STATEMENT. This proposal touches on some important questions but it seems to cover too many areas and not relate them. It would benefit from reducing and refining certain goals outlined.
+
+
+
+////////////////////////////////////////////////////////////////////////////
+
+	
+Review #2
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1608123
+
+NSF Program:
+
+ 
+
+CRCNS
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+CRCNS: Collaborative Research: Common Computational Principles Underlying Texture Processing in Vision and Touch
+
+Rating:
+
+ 
+
+Poor
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+The authors propose an ambitious combination of electrophysiological, anatomical, behavioral and computational studies of cortical sensory processing in mouse to relate visual and tactile representations. The proposed study, however, is far too ambitious to possess any realistic prospect of successes. The proposed computational models seek to implement millions of multi-compartmental neurons connected by realistic connectivity patterns obtained from anatomically reconstructed cortical circuits. Unfortunately, the single preliminary example of a simulation provided by the authors was wholly inadequate for the scale of the model being contemplated. How will the free parameters in such a large scale cortical model, perhaps involving hundreds or even thousands of free parameters per neuron, be determined? How will the simulations be verified? How are we to have any confidence that the simulation is behaving anything like the corresponding cortical circuits? The flippant manner in which the task of stimulating the responses of two sensory cortical areas at micron scale resolution was presented provides no confidence that the authors are likely to successfully complete the proposed study. In addition, much of the proposal is laden with specialized mathematical jargon that is inappropriate for an interdisciplinary panel that combines experimental and theoretical expertise. 
+
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+Broader impacts were addressed. 
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+The ambitious computational models proposed were unsupported by necessary detail or preliminary results.
+
+
+
+////////////////////////////////////////////////////////////////////////////
+
+Review #3
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1608123
+
+NSF Program:
+
+ 
+
+CRCNS
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+CRCNS: Collaborative Research: Common Computational Principles Underlying Texture Processing in Vision and Touch
+
+Rating:
+
+ 
+
+Fair
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+The foundation of the proposal is that cortical areas have substantial anatomical similarity, in contrast to their functional specialization for specific modalities, and this suggests that there are strong modality-independent commonalities in the computations that they perform. To understand this, the investigators will study texture discrimination in visual and tactile modalities in the mouse, making use of behavioral and electrophysiological experiments, and computational modeling. This is a conceptually very strong foundation. 
+
+However, enthusiasm for the approach is dampened for several reasons. While there is good evidence from other labs that mice can perform texture discrimination in the tactile domain, there is no corresponding evidence in the visual domain. The severely limited visual acuity of the mouse may be a fundamental issue: by its nature, texture is a multiscale entity û typical textures consist of many small micropatterns that serve as components in a large array. But given the mouse's poor visual acuity, it is unclear that its visual bandwidth can support this kind of stimulus, as even the "micropatterns" would need to be several degrees apart to be resolved. One could imagine that mice could discriminate between uniform gratings of different spatial frequencies, but it's not clear that this qualifies as "texture". Preliminary data demonstrating the mouse's behavioral abilities in this domain are therefore important and would be very helpful in providing reassurance of the practicality of the approach. 
+
+A second concern is that the single-unit analysis will be carried out in the urethane-anesthetized animal, and the detailed modeling will attempt to relate these responses to ensemble firing patterns in the alert, behaving animal. Drawing inferences about the circuitry (or understanding the meaning of model success or failure) would seem to be severely confounded by the possible effects of anesthesia and task. Use of anatomically realistic data to constrain modeling is by itself a strong plus, but these potential confounds are quite strong. 
+The lack of preliminary behavioral or physiological data from the PI's labs is particularly of concern given the apparent lack of experience with these experimental modalities. Extensive simulations are presented, but apparently no physiological or behavioral data. 
+
+More broadly, the approach does not seem to take into account some of the differences between the statistics of tactile and visual input, and how a common computational strategy can deal with them. There is extensive simulation, but little theory on this conceptually-important point. For example, whisking a texture is typically unidirectional and somewhat periodic, while visual fixation typically involves quasirandom motions in two dimensions. Specific kinds of spatial nonlinearities (e.g., that detect corners) play a special role in vision; does this make testable predictions about either differences in cortical processing, or about parallel features in the tactile domain? Lack of a theoretical consideration of the mechanisms by which these domain-specific details in sensory signals are handled (or ignored) reduces the potential insights that might be gained from the proposal. 
+
+The PI's make steps in this direction, but they are relatively small û largely structuring the analysis around a filter-rectify-filter model. Much work on visual texture has followed the cited paper of Malik and Perona (1990), and strongly suggests that visual texture processing is substantially more complex. 
+
+Results from Previous NSF Support: PI Choe has previous CRCNS support for data-sharing and development of a 3D browser for mouse brain neural and vascular morphology. The provided description appears to relate to just one of two related grants, but has been a success, with wide dissemination and clear documentation of its impact. PI Li has had NSF support for testing analog IC's, resulting in multiple papers and conference proceedings, and industrial interactions. Co-PI Smotherman is in the first year of NSF support for a project to understand how bats avoid interference from each others' sonar; there is educational outreach but no publications as yet. 
+
+Collaboration Plan: This is adequate; all participants are within 15 min by car, and meetings are planned at weekly, monthly, semester, and annual intervals. 
+
+Environment: Good. 
+
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+The PI's have chosen an central, fundamental problem in systems neuroscience. But while conceptual advances will have major implications for our understanding of the brain, there are limitations of the approach that reduce the likelihood of such advances. 
+
+From the point of view of education and outreach, the proposal is strong: four graduate students, along with undergraduates, will be trained, and PI Choe has substantial experience with public outreach. 
+
+The project will make good use of public databases, and the investigators will make their data and code publicly available. 
+
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+Human Subjects: Not applicable. 
+
+Vertebrate animals: The use of the mouse is appropriate, and justified by the potential gains. Veterinary care, surgeries, training, experimental procedures, and euthanasia methods are in general appropriate, but mention should be made of aspects of veterinary care specific to behavioral training, e.g., monitoring of untoward effects of water deprivation. 
+
+Postdoctoral Mentoring Plan: Not applicable. 
+
+Data Management Plan: Excellent; the platform already developed from NSF support will be used. 
+
+Budget: The budget appears appropriate for the needs of the project. 
+
+
+Summary Statement 
+
+This is a proposal to understand the common underlying computational principles underlying visual and tactile texture processing, using the mouse as a model. The work will include behavioral studies, single-unit electrophysiological studies, and modeling studies. The overall goal, of understanding the broad computational principles underlying cortical function, is one of the central goals of systems neuroscience, and substantial progress would therefore have major impact. However, there are both technical and conceptual concerns that dampen enthusiasm for the project.
+
+////////////////////////////////////////////////////////////////////////////
+
+Review #4
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1608123
+
+NSF Program:
+
+ 
+
+CRCNS
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+CRCNS: Collaborative Research: Common Computational Principles Underlying Texture Processing in Vision and Touch
+
+Rating:
+
+ 
+
+Poor
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+Strengths 
+ù general idea of comparing texture processing across modalities 
+
+Weaknesses 
+ù No preliminary data, nor does it appear that the PIs have any experience (1) training animals; (2) in vivo electrophysiology in V1 and S1 (in the forepaw region), or (3) analyzing neural data 
+ù No details on characterizing receptive fields in V1 or S1, especially because they will be nonlinear. This can be done with more sophisticated techniques in the context of textures (aim 2, task 2), but details left out. 
+ù No detailed hypotheses about how texture and visual processing should be similar 
+ù Unrealistic large-scale biophysical models, with unclear relation to the findings human brain project (their reference [72]). 
+
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+Strengths 
+ù training undergraduates through existing REU program 
+ù non-specific public outreach (with previous experience) 
+ù distribute data and code 
+
+Weaknesses 
+ù not specific about public outreach 
+
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+This proposal seemed far from implementable, with no demonstration of the ability of the PIs to perform the proposed work, no specific hypotheses, and no recognition of the challenges within the proposal (animal training, in vivo physiology, computational analyses, large-scale realistic biophysical simulations of cortex).
+
+////////////////////////////////////////////////////////////////////////////

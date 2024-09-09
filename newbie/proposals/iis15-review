@@ -1,0 +1,691 @@
+Proposal Detail:
+
+￼
+￼
+Proposal Information
+
+Proposal Number:
+
+ 
+
+1525774
+
+Proposal Title:
+
+ 
+
+RI: Small: Synthetic Connectomics
+
+Received by NSF:
+
+ 
+
+01/13/15
+
+Principal Investigator:
+
+ 
+
+Yoonsuck Choe
+
+ 
+
+This Proposal has been Electronically Signed by the Authorized Organizational Representative (AOR).
+
+ 
+
+NSF Program Information
+
+NSF Division:
+
+ 
+
+Div Of Information & Intelligent Systems
+
+NSF Program:
+
+ 
+
+ROBUST INTELLIGENCE
+
+Program Officer:
+
+ 
+
+Kenneth C. Whang
+
+PO Telephone:
+
+ 
+
+(703) 292-8930
+
+PO Email:
+
+ 
+
+kwhang@nsf.gov
+
+Review Information:
+
+ 
+
+External Peer Review began on 04/27/15
+
+ 
+
+Proposal Status
+
+Status As of Today Dated: 05/27/15
+
+This proposal has been declined by NSF.
+
+
+Our records indicate that the following Annual Project Report(s) are due or overdue for the Award(s) listed below. Please submit the report(s) as soon as possible using the Project Reports System within FastLane.The report(s) will be considered overdue if not submitted by the Report Overdue Date mentioned for each report. Having an Overdue project report will affect/delay NSF actions on any other award related to the PI/Co-PI:
+
+Award 1256086: Annual Report overdue for period ending 04/30/2015 for Yoonsuck Choe
+
+ 
+
+Reviews
+
+All of the reviews of your proposal that have been released to you by your NSF program officer can be viewed below. Please note that the Sponsored Project Office (or equivalent) at your organization is NOT given the capability to view your reviews.
+
+Document:
+
+ 
+
+Release Date:
+
+Panel Summary #1
+
+ 
+
+May 19 2015 6:29PM
+
+Review #1
+
+ 
+
+May 19 2015 6:28PM
+
+Review #2
+
+ 
+
+May 19 2015 6:28PM
+
+Review #3
+
+ 
+
+May 19 2015 6:28PM
+
+Review #4
+
+ 
+
+May 19 2015 6:28PM
+
+ 
+
+Context Statement
+
+In January 2015, the IIS Division received 667 proposals totaling 601 projects for review in the fiscal year 2015 Small budget class size for the "Information and Intelligent Systems(IIS):Core Programs," solicitation (NSF 14-596). Additional information about the solicitation can be found at http://www.nsf.gov/pubs/2013/nsf14596/nsf14596.htm 
+
+Proposals submitted to the IIS Division in response to the "Information and Intelligent Systems (IIS): Core Programs," solicitation are reviewed in panels to permit comparison of related proposals. In some cases, the Division also seeks the advice of several independent ad hoc reviewers for proposals to complement the evaluations provided by the panel review. In rare cases, proposals will only receive ad hoc review, for instance, if the topic doesn't fit within a scheduled panel. 
+
+Merit review is a critical component of the National Science Foundation's decision-making process for funding research and education projects. Through the use of rigorous, competitive merit review, NSF maintains high standards of excellence and accountability. It enables investments in projects that couple the best ideas from the most capable researchers and educators, with the advancement of discovery and learning and the enrichment of the science and engineering resources. The merit review criteria are: 
+
+1. What is the intellectual merit of the proposed activity? 
+2. What are the broader impacts of the proposed activity? 
+
+Additional information on NSF's merit review criteria can be found at 
+http://www.nsf.gov/bfa/dias/policy/meritreview/; 
+http://www.nsf.gov/pubs/policydocs/pappguide/nsf09_29/gpg_3.jsp 
+
+
+Please refer to the Reviews section above for copies of the reviews and a panel summary, if applicable (on Fastlane at: https://www.fastlane.nsf.gov/jsp/homepage/proposals.jsp). In reading them, please keep in mind that reviewers are addressing their comments primarily to the NSF, not necessarily to you. Remarks are sometimes made without giving detailed references or providing specific suggestions for improvement, although reviewers are encouraged to provide such helpful information. 
+
+Decisions about particular proposals are often very difficult and factors other than reviewer comments and ratings enter into the decision making process. Maintaining appropriate balance among subfields, the availability of other funds, and the total amount of funds available to the program for new and renewal proposals, and general Foundation policies are also important decision factors. 
+
+We encourage revised and resubmitted proposals that substantially address reviewer comments. Investigators are welcome to seek the advice of the Program Director before resubmissions are prepared. In addition, investigators should be aware that the Foundation will treat the revised proposal as a new proposal that will be subject to the standard review procedures. Information about reconsideration of declined proposals is found in NSF's Grant Proposal Guide (Chapter IV), which should be available at your institution, usually at the office that submitted your proposal or on the Web at: http://www.nsf.gov/pubs/policydocs/pappguide/nsf10_1/gpg_index.jsp 
+
+Please note that current IIS program descriptions, proposal submission deadlines, and other information items can be found on the WWW at http://www.nsf.gov/div/index.jsp?org=IIS. We also encourage examination of the NSF information at www.nsf.gov for announcements of new NSF-wide funding opportunities and other items of interest to the research community.
+
+ 
+
+
+
+
+
+	
+Panel Summary #1
+
+￼
+￼
+Proposal Number: 1525774
+
+Panel Summary: 
+Panel Summary 
+
+A brief statement of what the proposal is about: 
+
+The proposed work focuses on constructing synthetic neural circuits that are evolved to solve control tasks; these circuits act as surrogate large-scale networks on which connectome-centric network analysis methods may be developed and validated. 
+
+Intellectual merit, including extent to which proposed activity explores creative, original, or potentially transformative concepts: 
+
+
+- Strengths 
+
+The proposal is clearly written. 
+
+- Weaknesses 
+
+
+However, it is unlikely that evolving synthetic connectomes to solve simple computational tasks is going to have direct relevance to actual neural circuits or facilitate connectomic analysis. Grounding this type of study in an actual biological problem faced by a small or simple animal (e.g., the small circuits one might find in a fly or nematode) might lead to concrete results of biological relevance. But evolving toy networks to solve abstract tasks is unlikely to yield insights that are readily transferred to neurobiology. Whether this type of work will aid in the analysis of connectomes is doubtful. . 
+
+Broader impacts, including enhancing diversity and integrating research and education: 
+
+- Strengths 
+
+Undergraduate and graduate teaching efforts are described. 
+
+An interactive web portal will be set up to allow the public to generate and simulate a variety of neural controllers. 
+
+- Weaknesses 
+
+
+
+
+Data Management Plan: 
+
+Data emanating from computational work will be made available on a web portal. Algorithms and software will be made available on public depositories. 
+
+
+
+Panel recommendation: 
+__ Highly competitive 
+__ Competitive 
+_X_ Low Competitive 
+__ Not recommended for funding by panel 
+
+Justification, including key strengths and critical weaknesses: 
+
+The critical weakness is that the synthetic connectome work that is being proposed is unlikely to produce insight into connectomes or information processing in real neural circuits. 
+
+The summary was read by the panel, and the panel concurred that the summary accurately reflects the panel discussion.
+
+
+Panel Recommendation: Low Competitive
+
+
+
+
+
+
+
+Review #1
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1525774
+
+NSF Program:
+
+ 
+
+ROBUST INTELLIGENCE
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Synthetic Connectomics
+
+Rating:
+
+ 
+
+Fair
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+The gap that is described at the beginning of this proposal... we need tools to deal with the data deluge that is coming from high throughput connectomics ... isn't likely to be closed by the research described in this proposal, the analysis of the computational properties of small networks that are evolved for various computational tasks. Certainly, understanding the computational dynamics of small neuronal networks is a worthy goal, but few would argue that this is going to help us deal with the massive complexity that the experimentalists who work on actual connectomics are contending with. The idea of evolving networks by adding nodes to modulate network topology is interesting, but there doesn't really seem to be a clear and solvable problem (aside from aiding the connectomics enterprise, which this project won't do). 
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+Adequate educational programs and computer based dissemination of progress are described. 
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+We definitely need improved tools for connectomics. But this project won't deliver them.
+
+
+
+
+
+	
+Review #2
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1525774
+
+NSF Program:
+
+ 
+
+ROBUST INTELLIGENCE
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Synthetic Connectomics
+
+Rating:
+
+ 
+
+Fair
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+This proposal aims at developing an artificial framework to 
+investigate possible ways of carrying out connectomics research and 
+analysis while the actual biological data remains largely 
+unavailable. Specifically, the project will use an algorithm called 
+NEAT to allow artificial neural networks to synthetically evolve over 
+time to accomplish increasingly complex tasks. The resulting networks 
+will be analyzed with several techniques inspired by neurobiology to 
+understand their connectivity structure. The first step is to use 
+behavior categorization to break down different networks in distinct 
+classes given their abilities. The networks will also be analyzed 
+using microstimulation of hidden units to see how they affect the 
+neural network trajectories. Another technique that 
+will be used is lesions of the neural network (disabling of specific 
+nodes) to investigate how they affect behavior. Finally, the research 
+program will analyze performance in tasks involving single individuals 
+vs. groups, carry out profiling over several generations and use black 
+box modeling to determine the nature of the evolved circuits. 
+
+The research program is imaginative in its adaptation of 
+neurobiological and computer science techniques to analyze artificial 
+neural networks. However, it is not clear that this will translate in 
+solid gains for the biological problem of connectomics (see below). 
+
+The proposal is well written, but the mechanisms for assessing success 
+are partially lacking (see below). 
+
+The PI has a good track record in the analysis of neural networks and 
+computer science techniques applied to neurobiology. 
+
+Resources are adequate for the proposal. 
+
+Strengths. The research program could develop new techniques to 
+analyze neural networks and offer solutions that could be applied in 
+the future to analyze real neuronal networks. The proposal is in 
+general well written and imaginative in the analysis techniques it 
+proposes to adapt from neuroscience and from computer science to the 
+models studied. 
+
+Weaknesses. There are two main weaknesses. The first one is that there 
+is no real internal criterion that will define the success of the 
+research program. In other words, because the network analysis tools 
+are developed on evolved neural networks, it is difficult if not 
+impossible to decide whether a tool fails or succeeds because the 
+network analyzed is to simple or complex for the task and vice 
+versa. At the end of the research plan (sec 4.8) the PI proposes to 
+test the methods on a specific example (c. Elegans). To this 
+reviewer, this should have been the starting point of the project to 
+insure that there is some calibration to the effectiveness of the 
+methods. It seems that it would make more sense to start with a 
+connectomics data set that is incomplete but where there is some 
+ground truth available rather than generating an arbitrary data set to 
+analyze. For instance the PI could consider partial data sets in 
+Drosophila in addition to C. elegans. The second weakness is related 
+to the first one. There does not seem to be any guarantee that the 
+tools developed analyzing artificial networks will translate to 
+biologically adequate ones. The NEAT algorithm postulates gene and evolution 
+rules that are vastly different from biological ones. 
+
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+Broader impacts are appropriate and no serious weaknesses are noted. 
+
+First, the grant will train undergraduate students through an REU 
+program included in the grant budget. Second, the data and code will be 
+released to the broader public. In addition, the PI will organize a 
+synthetic connectomics challenge at major conferences to publicize the 
+topic and results of the grant. All together the broader impacts are appropriate 
+for the present project. 
+
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+In summary, a proposal that requires modifications to make clear how success will be assessed and how it will be relevant for the concrete goal of understanding biological connectomics.
+
+
+
+
+
+
+
+Review #3
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1525774
+
+NSF Program:
+
+ 
+
+ROBUST INTELLIGENCE
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Synthetic Connectomics
+
+Rating:
+
+ 
+
+Fair
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+- strengths 
+
+The PI provides some good evidence that there are certain 
+common properties of internal neural dynamics that predict 
+the ability of those neural circuits to maintain behavior in novel 
+environments. This supports his claim that the proposed 
+analysis tools may find other such features of 'synthetic 
+connectomes' that correlate with behavioral performance. 
+
+The PI has rightly chosen to use current state-of-the-art 
+generation methods (i.e. NEAT) to produce these synthetic 
+connectomes on a wide range of tasks, and current 
+state-of-the-art analysis methods (i.e. lesion studies 
+and vector autoregressive modeling) to study them. 
+
+I also applaud the PI's attempt to incorporate embodiment 
+into the analysis and synthesis of neural circuits. 
+
+- weaknesses 
+
+There seemed to be little structure to the proposed work. 
+For example, the chosen tasks seemed somewhat arbitrary. 
+On p 8 the PI claims that 'We conducted preliminary simulations 
+to test NEAT in increasingly complex and diverse task environments.' 
+What is the definition of a 'complex' environment? One in which 
+only complex neural networks can solve it? Or one in which 
+there is low probability of evolving a successful controller? 
+
+It is claimed subsequently that tasks will be posed to the 
+evolutionary algorithm that require increasing 'perceptual, 
+cognitive, and motor capability'. However, this is a function 
+of the optimization method used: it may be that simple 
+neural networks can solve a given task, but are missed 
+by a given optimization method. This is exacerbated by the 
+optimization method the PI proposes to use, NEAT. NEAT 
+is designed with an inherent bias toward complexification 
+of the neural network topology over evolutionary time, so 
+the final complexity observed in the evolved networks may 
+be due to this bias, not the demands of the task environment. 
+
+If the PI wishes to transfer insights gained from 
+synthetic connectomes to biological connectomes, I urge 
+the PI to consider optimization methods that attempt 
+to constrain the complexity of the evolved neural circuits. 
+
+Also: One of the task dimensions that will be varied (as 
+explained on p 8) is 'supervised learning vs. reinforcement 
+learning'. But this is not a feature of the environment, is 
+it? It is instead how the animat learns to succeed in a given 
+environment. 
+
+The PI seems to assume that various behaviors can easily 
+be broken down into discrete motor primitives, but this 
+is not necessarily the case: some behaviors exhibit 
+smooth dynamics. How will the PI know whether discrete 
+categories have been erroneously projected onto dynamical 
+systems that have no discrete states? 
+
+The evaluation approach outlined at the top of p 10 seems 
+somewhat arbitrary: the research team will manually rank 
+the quality of behavior categorization, but how will the 
+PI guard against the implicit biases of the research team 
+from creeping into this analysis? It is recommended that 
+some form of double-blind analysis could be formulated. 
+
+In the lesioning work, the PI proposes to use non-invasive 
+analysis methods if 'lesioning disrupts the normal 
+dynamics of the neural circuit'. But isn't this exactly 
+what lesion analysis does: it searches for lesions 
+that disupt normal function? 
+
+On p 12 the PI proposes to seek neural modules that 
+generate modular components of the overall behavior. However, 
+it has been shown, e.g. 
+
+Yamashita, Yuichi, and Jun Tani. "Emergence of functional 
+hierarchy in a multiple timescale neural network model: a 
+humanoid robot experiment." PLoS computational biology 4.11 
+(2008): e1000220. 
+
+that observed modularity in 
+behavior does not necessarily correlate with structural 
+components of neural circuits. 
+
+Some of the proposed work was overly vague and confusing. 
+For example, on p 13, the PI proposes to 
+'validate the module's function against physical laws 
+derived from behavior (using Schmidt and Lipson 2009).' 
+What physical laws are implied here? 
+
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+- strengths 
+
+The author plans to develop an interactive web portal 
+for exploring the evolved synthetic connectomes, along 
+with other, more 'traditional' broader impacts, such 
+as graduate student training and undergraduate training 
+via an REU. 
+
+- weaknesses 
+
+Very little detail about how the public will be able to 
+interact with the evolved synthetic connecomes was provided. 
+Will the public be able to evolve circuits? Lesion them? 
+Analyze their dynamics? How will this be made understandable 
+for a lay public? 
+
+It seems as if very little thought was given to the broader 
+impacts of this work. The PI dedicated just half a page 
+to it in the proposal, and there was very little there that 
+was novel. 
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+The PI proposes to develop a set of synthesis and analysis 
+methods collectively referred to as 'synthetic connectomics'. 
+The goal is to evolve artificial neural circuits that 
+achieve increasingly sophisticated sensorimotor coordination 
+in increasingly complex task environments. Then, various 
+analytic methods will be employed to seek common features within 
+the (otherwise seemingly diverse) successful evolved circuits. 
+
+It is claimed that this may help with the analysis of 
+partially known connectomes of model organisms, but it is 
+never stated how, or even whether, the analysis of synthetic 
+connectomes can help with the analysis of biological 
+connectomes. In short, there is no evidence that the work 
+here will 'feed back' to biology. And, if it does not, then 
+the proposed work seems to be of little utility. It may be 
+that this work could be useful for guiding the generation 
+of complex behavior in robots, but this is never mentioned.
+
+
+
+
+
+
+Review #4
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1525774
+
+NSF Program:
+
+ 
+
+ROBUST INTELLIGENCE
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Synthetic Connectomics
+
+Rating:
+
+ 
+
+Poor
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+Advancing knowledge (within field, across fields) 
+Proposed activities (creative, original, or potentially transformative concepts) 
+
+[Weakness] The proposed work focuses on constructing synthetic neural circuits that are evolved to solve control tasks; these circuits act as surrogate large-scale networks on which connectome-centric network analysis methods may be developed and validated. A critical problem in this approach is a lack of knowledge about (or an ability to assess) whether the evolved circuits exhibit the scale or statistical properties of circuits that are to be unmasked by the BRAIN Initiative or the Human Connectome Project. 
+
+Plan for carrying out the proposed activities( well-reasoned, well-organized, sound rationale, assessment) 
+
+[Weakness] The stated rationale for this work is provide synthetic circuits that can simulate as-yet-to-be-discovered connectomes pending advancements in neural circuitry identification. 
+
+[Weakness] The proposed approach relies on the NEAT neuroevolution technique to form circuits followed by circuit evaluation studies analyzing the circuits' dynamics, graph structure, and computational utility. There is a disconnect, however, between biologically-motivated connectome targets and the approach in this work. A missing intermediate step would be the evaluation of NEAT evolved circuits that exhibit the structure and function of available full or partial connectomes (c elegans and drosophila, e.g.) and validate the evolved circuits ability to replicate known biological correlates prior to the application of this method to evaluate more abstractly evolved circuits. 
+
+Team qualifications, resources 
+
+[Neutral] The PI and environment are suitable to the proposed work. 
+
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+Benefit society (advance societal outcomes) 
+
+[Weakness] It is unclear how the web-based library of evolved neural controllers and task simulations will benefit external researchers or the broader public. The rationale and implementation of a 'Synthetic Connectomics Challenge' is also not clearly established nor is its role in advancing societal outcomes. 
+
+Education and dissemination 
+
+[Neutral] Interdisciplinary collaboration external research university, inclusion of research results in teaching, and dissemination of findings through academic publications. 
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+The proposed work lacks a compelling rationale and suffers from significant methodological drawbacks that would limit the utility of the results to the broader scientific community.
+
+
+
+

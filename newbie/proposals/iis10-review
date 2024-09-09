@@ -1,0 +1,231 @@
+
+	
+Panel Summary #1
+
+
+
+Proposal Number: 1117559
+
+Panel Summary: 
+Panel Summary 
+
+
+Division of Information and Intelligent Systems 
+
+The proposed work will use simulated evolution of neural architecture to model long-term memory, based on concepts of predictive dynamics in recurrent networks. 
+
+Intellectual merit: 
+
+The evolution of memory and prediction through the internalization of external scaffolding is a very interesting research focus and the 2D tasks described seem like a good next step. 
+
+While the proposal is clear and the steps to be followed are nicely laid out, the specific payoffs of the proposed work for either science or engineering are not clearly articulated. 
+
+One major issue brought up by several reviewers on the panel is the implicit assumption, and its lack of validation, that predictability in state dynamics corresponds to (or is a precondition for) the ability of the agent to predict. There is no discussion on how to bridge the time scales between network dynamics and the formation of memory, which involves synaptic plasticity. The role of synaptic plasticity in stable formation of memory is critically important, and lacking in the model. 
+
+Broader impacts, including enhancing diversity and integrating research and education: 
+
+The investigator has a good track record in offering REU opportunities, K-12 outreach participation and web-based interactive tutorials. 
+
+The broader impact of this study on advances in neuroscience are poorly documented. "Olfaction" and "neuromodulation" are amply mentioned in the proposal, but without a clear connection between these architectures and their function in neuroscience. 
+
+Panel recommendation: 
+
+__ Highly competitive 
+__ Competitive 
+_X Not recommended for funding by panel 
+
+Justification, including key strengths and critical weaknesses: 
+
+The investigator offers valuable outreach and research experiences to undergraduates. The research plan is well laid out, but it is not evident why it is interesting and what light the results may shed on important questions in neuroscience, evolution or artificial neural networks. 
+
+The summary was read by the panel, and the panel concurred that the summary accurately reflects the panel discussion.
+
+
+Panel Recommendation: Not Recommended for Funding
+
+
+
+
+
+Review #1
+
+
+
+Proposal Number:
+
+ 
+
+1117559
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Evolution of Time in Simple Neural Architectures
+
+Rating:
+
+ 
+
+Multiple Rating: (Good/Fair)
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+The evolution of memory and prediction through the internalization of external scaffolding is a very interesting research focus and the 2D tasks described seem like a good next step. 
+
+However, the *specific* payoffs of the proposed work for either science or engineering are not clearly articulated. In addition, the "research issues" sections, where the actual work to be done is described, are very brief and shallow. It is also not clear what the predictability of the agent's internal state by an external process has to do with the agent itself making predictions. 
+
+
+
+What are the broader impacts of the proposed activity? 
+
+Addresses broadly interesting issues of memory and prediction 
+
+Excellent broader impact plans, including REU possibilities, K-12 outreach participation and web-based interactive tutorials 
+
+Summary Statement 
+
+A very interesting general topic with strong broader impact that requires a more fleshed-out research plan to be competitive.
+
+
+	
+Review #2
+
+
+
+Proposal Number:
+
+ 
+
+1117559
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Evolution of Time in Simple Neural Architectures
+
+Rating:
+
+ 
+
+Multiple Rating: (Good/Fair)
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+The proposed work will use genetic algorithms to evolve synaptic weights for simple artificial neural networks with different architectures of increasing complexity, in order to investigate the evolution of memory and recurrence. This is a fifth revision of previous proposals. 
+
+While the proposal is clear and the steps to be followed are nicely laid out, I am not sure what is the merit of this activity and whether this is the best alternative in terms of realizing the ultimate goals of the research. Genetic algorithms are a great way to move the focus of scientific research from "design the solution" to "design the problem". One might ask: what is the problem that results in the spontaneous evolution of structures such as those proposed here, like external memory? Instead, the PI proposes to preprogram this structurally into a network, and only evolve its weights. In addition, in different steps of the research program, different tasks are used without any systematic investigation or description of the key differences between them, that lead to the need of different architectures. I find this disappointing: if one wants to understand how an architecture evolved, it is not enough to presuppose this architecture and only evolve its connectivity. 
+
+Another key gap here is the lack of connection to the vast literature on reinforcement learning (which relies on prediction). For example, the PI cites Rosen (1985) as one of the few who saw the importance of prediction in intelligent systems, however, over 100 years of literature on animal conditioning, going back to Pavlov and Thorndike, is predicated on the fact that an all-important aspect of animal intelligence is learning to predict the future and reacting to one's own predictions. In this sense, reinforcement learning architectures that rely on dopamine, not acetylcholine, are much more relevant to this proposal than the architectures used here, that seem to me an arbitrary choice. Furthermore, for reinforcement learning there has been work with genetic algorithms looking at more than the development of synaptic weights. Instead, previous work looked at evolving the learning rules through which predictions themselves are learned. 
+
+The PI does not consider synaptic plasticity a form of memory. However, if current actions are different based on different past history, that, to me, is a form of memory of the past. In this sense, external memory is not special, except in that it is limited in what it can remember (only location). 
+
+In Aim 4, the criterion of predictability of a system's internal state is completely unclear to me. Why is this related to predictive ability? If a network does the same thing all the time (or does nothing!) its internal dynamics are very predictable, but useless.. In this respect, simple reinforcement learning architectures can predict well, but are not necessarily fully recurrent or predictable in terms of internal dynamics. Thus I wholly disagree with the premise of this aim which is that "before predictive mechanisms can come about, internal state dynamics first need to be predictable". 
+
+More practically, this is an instance where instead of evaluating successful agents based on performance in perturbed environments, one can evolve agents in more variable environments and see whether this "internal predictability" actually emerges in a larger part of the successful population as a result of this. This would be a more conclusive answer for the need of predictability as a solution to an environmental problem. 
+
+In sum, although previous reviews of this proposal have asked for more structure and incrementality in the research plan, I think the current proposal puts the structure in the wrong place. The PI designs different architectures that he has deemed to be incremental evolutionary stages, rather than asking whether these are indeed necessary steps of evolution, and whether there is a domain or problem for which these are the incremental steps of a solution. As a result, my enthusiasm for this work is severely tempered, as it is not clear what conclusions about neuroscience or evolution (or the nature of the problems with which we deal in our daily life) will result from this work. 
+
+What are the broader impacts of the proposed activity? 
+
+There are two threads of broader impact. One regards education, from K-12 to graduate studies, and here I have no concerns. The PI does a commendable job in this domain. The second broader impact, the connection to neuroscience in general (and to consciousness in particular) seems very hand-wavy and general. The PI names different architectures "olfaction", "neuromodulatory system" etc, without much actual connection between these architectures and the function of these systems in neuroscience. In relation to this, see the last point above regarding the potential conclusions for neuroscience, which I believe are severely limited here. 
+
+Summary Statement 
+
+A clear research project, but it is not clear why it is interesting and what light the results will shed (if any) on important questions in neuroscience, evolution or artificial neural networks.
+
+
+
+Review #3
+
+
+
+Proposal Number:
+
+ 
+
+1117559
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Evolution of Time in Simple Neural Architectures
+
+Rating:
+
+ 
+
+Multiple Rating: (Good/Fair)
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+This proposal studies simulated evolution of neural architecture for modeling of long-term memory, based on concepts of predictive dynamics in recurrent networks. 
+
+As one concrete example, the proposal shows that architectures that are evolved based on performance on a simple task (pole balancing) show higher state predictability with smooth, periodic orbits. This is an expected result for a continuous dynamical system controlling a pole in a balancing task and it is not clear how this relates to neural systems, especially larger-scale spike-based neural systems extending to the scale and complexity of the human brain. Other examples given (ball catching, 2D foraging) are similar and suffer from the same limitation. 
+
+
+What are the broader impacts of the proposed activity? 
+
+Deeper implications are suggested in the modeling of consciousness based on predictive dynamics, although it is not mentioned how consciousness may be quantitatively measured, let alone in the current framework. 
+
+The PI has a record of outreach in education including summer school of K-12 students and web-based tutorials. 
+
+
+Summary Statement 
+
+The proposal considers evolution of recurrent network dynamics to study long-term memory, as a model of the predictive function of the brain. The connection between the small-scale dynamics of oscillatory recurrent networks and the large-scale dynamics at the scale of the human brain is not clearly outlined.
+
+

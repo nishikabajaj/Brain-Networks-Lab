@@ -1,0 +1,105 @@
+Here's how to organize your ideas, papers, etc.
+
+	0. Keep a single "ideas" file.
+
+		- Time stamp whenever you write an entry for the first
+		  time in that day.
+		- Write down anything:
+			- references
+			- your ideas
+			- quotes from papers and books
+			- miscellaneous stuff
+		- Don't worry about organizing it in a particular way.
+		- This tends to keep accumulating, and since it's
+		  electronic, you can search it.
+		- Read the whole thing through once in a while to
+		  refresh yourself with your own ideas. It's amazing
+		  to find out that you had certain recurring thoughts
+		  and see how they developed over time, and what
+		  papers/references influenced it.
+
+	1. Reading and filing papers:
+
+		- Read a paper, and initially file them into
+		  folders of major subject areas.
+
+		- As you tend to recognize a particular person's
+		  name over and over again, take those papers out
+		  and make a new folder with that person's name
+		  on it.
+
+		- When saving a pdf file of the paper, use the
+		  convention below:
+
+			first author's last name
+			journal
+			year
+			brief topic
+
+
+		  For example, one of my IEEE TNN papers would be
+
+			choe-tnn2004-thalamus.pdf
+
+		- When reading a paper, see which other author's papers
+		  are cited by that paper. That's usually a good way
+		  of quickly assessing the paper's academic camp.
+
+		- In general, when you read, look for keywords that
+		  succintly describe what you had in mind. You may have
+		  had a vague idea about something, but may not have
+		  known the right words to describe it. If you find
+		  a particular keyword that does the job, use that
+		  to search for more references.
+
+		  Also, again, you may have a vague (but good) idea
+		  about something that you are not able to express
+		  very clearly. Sometimes, during extensive reading,
+		  you tend to find those thoughts expressed in the
+		  sentences wrote by others, although with a slightly
+		  different nuance. Write these down in your ideas
+		  file. These are rare moments, but they definitely
+		  help you clarify your thought and think beyond
+	 	  what is written in the paper that you just read.
+
+		- Read other papers that talk about the paper you're
+		  interested in, to see how people evaluate and
+		  critique that paper. After reading many such papers,
+		  you will gain your own ability and style of critiquing.
+
+	2. Reading a book
+
+		- When I read a book, I prepare post-it flags (red, green,
+		  etc.) and cut them into about 3mm thin strips, and then
+		  put them on the margin so that the flaggy part jutts
+		  out where I see an interesting sentence or paragraph.
+		  Put the flag at the line of where the sentence
+		  begins, if you're interested in that sentence.
+		  Put it at the beginning of a paragraph if you
+		  thought that paragraph was good.
+
+		  The original intention was to avoid underlining library
+	   	  books, but this turned out the be really effective.
+
+		- If possible, write a short note in your "ideas" file
+		  as you read. This helps you find the precise book
+		  and location when you ever get the thought: "where
+		  did I read about this idea?"
+
+		- This way, you will be able to revisit a book very
+		  quickly.
+
+		- Of course, don't forget to read the book through once
+	    	  in a while, ignoring the flags, since there may be
+		  stuff that you didn't understand in the beginning that
+		  you may find interesting later. You can only notice
+		  what you already understand (I believe this is
+		  similar to what Wittgenstein said at one time.)
+
+	3. Finding a book
+
+		- Perhaps you know this already: Find a book that
+		  you are interested in, and go to the library to
+		  check it out. While there, don't just pick up
+	  	  that book. Browse through the neighboring bookshelves
+		  since there are related books there.

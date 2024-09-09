@@ -1,0 +1,248 @@
+
+
+
+
+
+Context Statement
+
+NATIONAL SCIENCE FOUNDATION 
+4201 WILSON BOULEVARD 
+ARLINGTON, VIRGINIA 22230	
+
+Division of Information and Intelligent Systems 
+NSF/NIH/BMBF Collaborative Research in Computational Neuroscience (CRCNS) Program 
+
+GENERAL INFORMATION FOR APPLICANTS 
+
+For the FY11 review cycle, the Division of Information and Intelligent Systems received 167 proposals, describing 119 unique projects that complied with the requirements of the CRCNS solicitation (http://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf11505). 
+
+Review panels for this competition met on March 24-25, 2011 to review these projects. Written reviews of each proposal were provided by at least three reviewers. Each rated the merit of the proposal as Excellent, Very Good, Good, Fair, or Poor. In addition, a summary of the panel's discussion was drafted by a member of the panel and refined and finalized in consultation with the rest of the panel. Based on written reviews and panel discussion, the panel as a whole decided on one of two funding recommendations: Fund if Possible or Not Recommended for Funding. In this competition, 43 projects (36%) were placed in the Fund if Possible category; the remaining 76 projects (64%) were not recommended. Individual panel summaries provide further qualitative information about a proposal's strengths and weaknesses within these two recommendation categories. The panels also provided scores for use by NIH. 
+
+Merit review is a critical component of the National Science Foundation's decision-making process for funding research and education projects. Through use of rigorous, competitive merit review, NSF maintains high standards of excellence and accountability. It enables investments in projects that couple the best ideas from the most capable researchers and educators, with the advancement of discovery and learning and the enrichment of the science and engineering resources. The merit review criteria for this competition --Intellectual Merit, Broader Impacts, and Quality of Collaboration -- are described further in the solicitation (http://www.nsf.gov/pubs/2011/nsf11505/nsf11505.htm#reviewcrit). 
+
+Please refer to the Reviews section above for copies of the reviews and a panel summary, if applicable (on FastLane at https://www.fastlane.nsf.gov/jsp/homepage/proposals.jsp). In reading them, please keep in mind that reviewers are addressing their comments primarily to the funders, not necessarily to you. They sometimes make remarks without giving detailed references or providing specific suggestions for improvement, although we try to encourage reviewers to provide such helpful information. 
+
+Decisions about particular proposals are often very difficult, and factors other than reviewer comments and ratings enter into the decision. Maintaining appropriate balance among subfields, the availability of other funding, the total amount of funds available to the program for new and renewal proposals, and general agency policies are also important decision factors. 
+
+We encourage revised and resubmitted proposals that substantially address reviewer comments. Investigators are welcome to seek the advice of the Program Director before preparing resubmissions, but they should be aware that the Foundation will treat the revised proposal as a new proposal, subject to the standard review procedures. Information about reconsideration of declined proposals is found in NSF's Grant Proposal Guide (Chapter IV), which should be available at your institution, usually at the office that submitted your proposal, or on the Web at http://www.nsf.gov/pubs/policydocs/pappguide/nsf11001/gpg_4.jsp#IVD. 
+
+Please note that current IIS program descriptions, proposal submission deadlines, and other information items can be found on the web at http://www.nsf.gov/div/index.jsp?div=IIS. We also encourage examination of the NSF information at http://www.nsf.gov/ for announcements of new NSF-wide funding opportunities and other items of interest to research community. 
+
+If you would like more information about the decision on your proposal, or for assistance in interpreting the comments, please contact any of the CRCNS Program Officers listed in the Program Solicitation to schedule a discussion. Information about the CRCNS program is available on the web at http://www.nsf.gov/crcns/.
+
+ 
+
+////////////////////////////////////////////////////////////////////////////
+Panel Summary #1
+
+
+
+Proposal Number: 1131981
+
+Panel Summary: 
+Panel Summary 
+
+
+This is a continuation database proposal to generate a morphological atlas of the mouse brain. The panel felt that this dataset would be extremely useful and if linked into other atlases such as the Allen Brain atlas could be transformative. This was the major strength of the proposal. The weakness were that a limited set of labeled neurons would be used which would limit the who might use it and that no data has yet been released from the previous proposal. It was also not completely clear how well the registration points to be used in this proposal will interface with those of the Allen Brain Atlas. 
+
+
+INTELLECTUAL MERIT (Strengths and Weaknesses) 
+The major strength was the linking of a morphological atlas with the Allen brain atlas while the weakness was in the current scope and scale of the morphological data. 
+
+This could be transformative if it generates a common interface for many of the current emerging brain atlases. 
+
+BROADER IMPACTS (Strengths and Weaknesses) 
+The broader impacts are in the training of many students and ultimate generation of a potentially well-used database. 
+
+
+There is some worry about data management in the data collected by the previous proposal is still not online. Also, it was recommended that the high-resolution original images be made available for sharing.
+
+
+QUALITY OF COLLABORATION (Strengths and Weaknesses) 
+Excellent 
+
+
+
+PANEL RECOMMENDATION AND RATIONALE 
+The panel recommended that this proposal be funded if possible because of the potential to link a morphological database into the other types of databases. 
+
+
+This summary was read by the panel and the panel concurred that it accurately reflects the panel discussion.
+
+
+Panel Recommendation: Fund if Possible
+
+
+////////////////////////////////////////////////////////////////////////////
+
+	
+Review #1
+
+
+
+Proposal Number:
+
+ 
+
+1131981
+
+NSF Program:
+
+ 
+
+CRCNS
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+CRCNS Data Sharing: Multiscale, Multimodal, Open Web Atlas of Whole Brain Microstructures
+
+Rating:
+
+ 
+
+Very Good
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+In this proposal the collaborative group of investigators will continue building the high-resolution brain atlas. The major goals of this particular proposal include obtaining new data (whole brain in Nissl, remainder of the data in Golgi, and GFP labeled GABA neurons), and enhancing various data structures within the data. 
+
+What are the broader impacts of the proposed activity? 
+
+the project will involve graduate and undergraduate students. The public will benefit from the database. The framework will lead to new advances in digital image algorithms. 
+
+Summary Statement 
+
+Overall the project appears to be well thought trough and the research is necessary and relevant. I especially like the investigators' strategy of generating the brains slices using the 'toilet paper roll' technique. I can only surmise how interesting it is to generate volume data from these images! The authors' collaboration appears to be very active and appropriate. The overall impression is that this is a very important proposal that has to be funded by one way or the other. The community will benefit substantially from making sure that this project succeeds. I believe that the authors could strengthen this proposal in several ways by responding to the following concerns. 
+
+1)	The importance notwithstanding, the goals appeared to be a little bit incremental. This is not necessarily a disadvantage, but some new interesting directions, both experimental and computational, would definitely increase my enthusiasm, considering that the project has already been funded previously by this program. The application could benefit from adding some breakthrough directions in data sharing (3D glasses?) and novel experimental techniques. 
+
+2) I had a major concern about data sharing. Will the investigators provide the entire dataset at maximum resolution for download? Or they will only make the data available for viewing? This was not clear. A definitive answer to this question will determine the degree of enthusiasm about this application. I believe that the research community has the right to access the entire dataset, in the same way as the biomed community has access to the downloadable builds of various genomes. Otherwise the dissemination goal will be incomplete.
+
+
+////////////////////////////////////////////////////////////////////////////
+
+Review #2
+
+
+
+Proposal Number:
+
+ 
+
+1131981
+
+NSF Program:
+
+ 
+
+CRCNS
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+CRCNS Data Sharing: Multiscale, Multimodal, Open Web Atlas of Whole Brain Microstructures
+
+Rating:
+
+ 
+
+Excellent
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+Both the content of and the accessibility to the 3d atlas of mouse brain already developed will be improved markedly by this project. These two advances will enable researchers to have improved access to the data about mouse brain. Through the registration to the INCF Waxholm Space and the Allen Brain Atlas, the important facility of researchers being able to integrate data from different sources will be further enhanced. 
+The applicants are very well qualified to carry out the work which will contribute significantly to our knowledge of the mouse brain. 
+
+What are the broader impacts of the proposed activity? 
+
+Both the INCF Waxholm Space and The Allen Brain Atlas allow free access worldwide. Significant web-based outreach at high school and undergraduate level will be possible, primarily through making a reduced data set available to the public and providing trained personnel to help this process. 
+
+
+Summary Statement 
+
+An excellent proposal that will deliver a significant neuroscience resource in a very cost effective manner.
+
+
+
+////////////////////////////////////////////////////////////////////////////
+
+
+	
+Review #3
+
+
+
+Proposal Number:
+
+ 
+
+1131981
+
+NSF Program:
+
+ 
+
+CRCNS
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+CRCNS Data Sharing: Multiscale, Multimodal, Open Web Atlas of Whole Brain Microstructures
+
+Rating:
+
+ 
+
+Excellent
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+This is a database proposal from a group who want to extend a previous database. The strengths are in that this group has already generated this kind of data from a previous proposal and that the data will be of very wide interest. A special strength of this proposal is that the datasets will be registered with the other similar databases that are similar to this and so this may be a catalyst for some unification. 
+
+What are the broader impacts of the proposed activity? 
+
+The broad impacts of this proposal are three fold. The dataset to be generated will be important for anyone with interest in the mouse CNS. The proposal will try to unify what is becoming a disjointed set of databases and may come up with a joint and commonly accepted front end to this type of dataset. In this, the proposal is of the utmost important. Finally, a large range of students will be involved with the work and so much training will develop. 
+
+Summary Statement 
+
+This is a continuation of a datasharing proposal to develop more atlas data for the mouse brain as well as develop a global interface of the data into the many other atlases. The method the investigators are using is a good way to get reasonable data and the output should provide a framework for future high-resolution neuronal data. The proposal is very reasonable and involves considerable student training.
+
+
+////////////////////////////////////////////////////////////////////////////

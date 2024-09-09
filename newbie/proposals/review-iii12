@@ -1,0 +1,381 @@
+
+
+Context Statement
+
+In December 2012, the IIS Division received 842 proposals totaling 751 projects for review in the fiscal year 2013 Small budget class size for the "Information and Intelligent Systems(IIS):Core Programs," solicitation (NSF 12-580). Additional information about the solicitation can be found at http://www.nsf.gov/pubs/2012/nsf12580/nsf12580.htm 
+
+Proposals submitted to the IIS Division in response to the "Information and Intelligent Systems (IIS): Core Programs," solicitation are reviewed in panels to permit comparison of related proposals. In some cases, the Division also seeks the advice of several independent ad hoc reviewers for proposals to complement the evaluations provided by the panel review. In rare cases, proposals will only receive ad hoc review, for instance, if the topic doesn't fit within a scheduled panel. 
+
+Merit review is a critical component of the National Science Foundation's decision-making process for funding research and education projects. Through the use of rigorous, competitive merit review, NSF maintains high standards of excellence and accountability. It enables investments in projects that couple the best ideas from the most capable researchers and educators, with the advancement of discovery and learning and the enrichment of the science and engineering resources. The merit review criteria are: 
+
+1. What is the intellectual merit of the proposed activity? 
+2. What are the broader impacts of the proposed activity? 
+
+Additional information on NSF's merit review criteria can be found at http://www.nsf.gov/bfa/dias/policy/meritreview/; http://www.nsf.gov/pubs/policydocs/pappguide/nsf09_29/gpg_3.jsp 
+
+Please refer to the Reviews section above for copies of the reviews and a panel summary, if applicable (on Fastlane at: https://www.fastlane.nsf.gov/jsp/homepage/proposals.jsp). In reading them, please keep in mind that reviewers are addressing their comments primarily to the NSF, not necessarily to you. Remarks are sometimes made without giving detailed references or providing specific suggestions for improvement, although reviewers are encouraged to provide such helpful information. 
+
+Decisions about particular proposals are often very difficult and factors other than reviewer comments and ratings enter into the decision making process. Maintaining appropriate balance among subfields, the availability of other funds, and the total amount of funds available to the program for new and renewal proposals, and general Foundation policies are also important decision factors. 
+
+We encourage revised and resubmitted proposals that substantially address reviewer comments. Investigators are welcome to seek the advice of the Program Director before resubmissions are prepared. In addition, investigators should be aware that the Foundation will treat the revised proposal as a new proposal that will be subject to the standard review procedures. Information about reconsideration of declined proposals is found in NSF's Grant Proposal Guide (Chapter IV), which should be available at your institution, usually at the office that submitted your proposal or on the Web at: http://www.nsf.gov/pubs/policydocs/pappguide/nsf10_1/gpg_index.jsp 
+
+Please note that current IIS program descriptions, proposal submission deadlines, and other information items can be found on the WWW at http://www.nsf.gov/div/index.jsp?org=IIS. We also encourage examination of the NSF information at www.nsf.gov for announcements of new NSF-wide funding opportunities and other items of interest to the research community.
+
+
+	
+Panel Summary #1
+
+￼
+￼
+Proposal Number: 1320202
+
+Panel Summary: 
+Panel Summary 
+
+Division of Information and Intelligent Systems 
+Robust Intelligence program 12-580 
+
+
+A brief statement of what the proposal is about: 
+
+The PIs propose to collect microscopy image stacks of mouse brain 
+vasculature, to apply previously demonstrated methods for vessel 
+tracing to these images, to validate the tracing using physiological 
+models of vessel growth and to make the resulting annotated vessel 
+trees available online through a web informatics platform. 
+
+Intellectual merit: 
+
+- Strengths 
+
+This project will collect extremely valuable data for neuroscience. 
+
+
+- Weaknesses 
+
+Limited methodological innovation of the proposed methods. Some 
+challenges in image analysis are not addressed by the proposed 
+technique. 
+
+
+- To what extent does the proposed activity suggest and explore 
+creative, original, or potentially transformative concepts? 
+
+The panel's views diverged to some extent. Some reviewers felt that 
+the methodological part of the proposal offers little innovation and 
+might not achieve the goal of creating vector representations of the 
+vessel trees. Other reviewers thought that the resulting data will be 
+extremely important for further neuroscience research and that is 
+a great goal to pursue as in of itself. 
+
+
+Broader impacts, including enhancing diversity and integrating 
+research and education: 
+
+- Strengths 
+
+Interdisciplinary training of students. 
+
+Outreach and education of general public via the web-based 
+visualization platform. The PIs propose to involve the general 
+public in labeling and validation of the data. 
+
+- Weaknesses 
+
+None. 
+
+Results from prior NSF support (if applicable): 
+
+The PIs made great progress on their prior NSF projects that aimed at 
+acquiring and releasing mouse brain images. This proposal focuses on 
+vasculature and aims to create vector representations for the 
+vasculature, rather than releasing raw images. 
+
+Data Management Plan: 
+
+Good. 
+
+Postdoc Mentoring Plan (if applicable): 
+
+N/A. 
+
+Additional suggestions: 
+
+During the discussion, it was suggested the authors change this 
+project into a data sharing proposal, thus creating an exciting image 
+set, but letting the field create competing methods to extract data 
+from it. 
+
+Panel recommendation: 
+__ Highly competitive 
+__ Competitive 
+_X__ Low Competitive 
+__ Not recommended for funding by panel 
+
+Justification, including key strengths and critical weaknesses: 
+
+The proposal offers to create an important data set for neuroscience. 
+However, the methodological part of the proposal significantly 
+diminished the panel's enthusiasm. 
+
+The summary was read by the panel, and the panel concurred that the 
+summary accurately reflects the panel discussion.
+
+
+Panel Recommendation: Low Competitive
+
+
+
+	
+Review #1
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1320202
+
+NSF Program:
+
+ 
+
+ROBUST INTELLIGENCE
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Reconstruction and Analysis of the Full Vascular Network of the Mouse Brain
+
+Rating:
+
+ 
+
+Multiple Rating: (Good/Fair)
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please evaluate the strengths
+and weaknesses of the proposal with respect to intellectual merit.
+
+The PI's propose the acquisition and processing of a novel mouse
+brain vasculature atlas.  Unfortunately I think that even though the
+project seems very exciting and builds on a significant track record its
+contributions in terms of novel algorithms and representation in medical
+image processing are not the main driver of the project. This projects
+seems more suitable to NIH or the CRCNS program that has funded previous
+versions of the work.
+
+In the context of the five review elements, please evaluate the strengths
+and weaknesses of the proposal with respect to broader impacts.
+
+The atlas of the vascular system of the brain mouse would be a very
+useful tool to the neuroscience community.
+
+Please evaluate the strengths and weaknesses of the proposal with respect
+to any additional solicitation-specific review criteria, if applicable
+
+
+
+Summary Statement
+
+
+	
+Review #2
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1320202
+
+NSF Program:
+
+ 
+
+ROBUST INTELLIGENCE
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Reconstruction and Analysis of the Full Vascular Network of the Mouse Brain
+
+Rating:
+
+ 
+
+Fair
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please evaluate the strengths
+and weaknesses of the proposal with respect to intellectual merit.
+
+This proposal aims to create a comprehensive online atlas of the mouse
+brain vasculature by (i) collecting microscopy images of mouse brains
+stained to highlight blood vessels, (ii) developing, validating and
+applying algorithms for reconstructing the vasculature tree from the
+image stack, and (i) creating a web application that enables users to
+browse the vector representation of the vasculature tree.
+
+If successful, the project promises to dramatically enhance available
+information about brain vasculature. The PIs postulate that such knowledge
+will significantly impact many different research areas, from brain
+modeling, to network optimization, to deep brain stimulation. However,
+the proposed plan offers no detail on how any of these applications would
+exploit the data created by the project to make progress. The proposal
+would be enhanced by spelling out in more detail how the resulting atlas
+will enhance applications of interest.
+
+The proposal suffers from lack of technical focus. The PIs propose
+imaging and method development for image analysis and a web informatics
+platform. And while the proposal builds a strong case for needing all
+three elements to make the data useful for further research, it does
+not offer significant innovations in any of the three areas. Combined
+with lack of details on how the resulting data will impact the field,
+it is hard to get excited about this project.
+
+Several methodological challenges in the proposed research plan map
+onto open questions in computer vision and biomedical image analysis,
+but the PIs treat these challenges as if they were merely engineering
+projects. For example, if the existing models of vasculature are so
+good at predicting real vasculature that the PIs plan to use them for
+validation of the tracing algorithm, I don't see the point of acquiring
+the data. The PIs propose to learn the parameters of the models from
+the data, and then use the models to validate the tracing algorithms.
+This seems circular. The PIs propose to use information theoretic measures
+to compare trees generated by the tracing algorithm and those created by
+the model, but offer little detail on how they plan to compute quantities
+like an entropy of a tree, or a joint entropy of two trees that might
+have different branching structure.
+
+The PIs are well qualified to carry out the proposed research, with
+complementary expertise.
+
+
+In the context of the five review elements, please evaluate the strengths
+and weaknesses of the proposal with respect to broader impacts.
+
+The broad impact of the proposed work includes interdisciplinary training
+of students, with commitment to attracting women and minorities into
+research. The web platform created within the project will be a great
+outreach and educational tool for the general public.
+
+
+Please evaluate the strengths and weaknesses of the proposal with respect
+to any additional solicitation-specific review criteria, if applicable
+
+
+
+Summary Statement
+
+
+	
+Review #3
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1320202
+
+NSF Program:
+
+ 
+
+ROBUST INTELLIGENCE
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Reconstruction and Analysis of the Full Vascular Network of the Mouse Brain
+
+Rating:
+
+ 
+
+Multiple Rating: (Excellent/Very Good)
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please evaluate the strengths
+and weaknesses of the proposal with respect to intellectual merit.
+
+This highly interdisciplinary project proposes to develop a complete 3-D
+reconstruction of the vasculature in the mouse brain from serial section
+microscopy and self-calibrating image analysis. Such data is invaluable in
+the quest to understand the mechanisms underlying neuromuscular coupling,
+for instance, in fMRI recordings, and in stroke.
+
+To make this project most accessible and useful, it would be most
+productive to integrate the obtained vasculature data and model with
+other mice neuroanatomy resources available on-line such as the Allen
+Brain Atlas.
+
+
+In the context of the five review elements, please evaluate the strengths
+and weaknesses of the proposal with respect to broader impacts.
+
+Brain vasculature is perhaps less studied than other brain anatomy such
+as neural and glial circuits, but equally important to healthy brain
+function, and its loss is a leading cause to neurodegenerative disease
+through stroke. The investigators also bring up an interesting possibility
+of using the conductivity of the vascular network for electrode-less
+deep brain stimulation, although this is only superficially mentioned.
+
+The outcomes of this research, in tools and data, will be disseminated
+SVG-based web informatics platform for open-access open-source use by
+the research community.
+
+
+Please evaluate the strengths and weaknesses of the proposal with respect
+to any additional solicitation-specific review criteria, if applicable
+
+
+
+Summary Statement 
+
+This well crafted, highly interdisciplinary project tackles an underserved
+domain of study, the brain's vascular network, of critical importance to
+holistic study of healthy and diseased function of the central nervous
+system.
+
+
+
+
+

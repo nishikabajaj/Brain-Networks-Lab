@@ -1,0 +1,413 @@
+	
+Panel Summary #1
+
+
+
+Proposal Number: 1218260
+
+Panel Summary: 
+Panel Summary 
+
+This work uses reinforcement learning to learn a map from visual inputs to actions - i.e. given an oriented line, have the system learn to follow the line - through a reinforcment signal that keeps the internal state invariant. 
+
+Intellectual merit: 
+
+Strengths 
+
+The question of grounding semantics is interesting and fundamental, and the proposal has the ambitious goal of solving this problem, which is laudable. 
+
+
+Weaknesses 
+
+The approach does not seem to adquately address the issue of semantic grounding in general. The reinforcement learning model is not novel. It is unclear what we will learn from this project. It is unclear what the experiments with humans are testing exactly. Overall there is a serious disconnect between the specific research proposed and the general issue of intrinsic semantics. 
+
+To what extent does the proposed activity suggest and explore creative, original, or potentially transformative concepts? 
+
+Answering the proposed question (grounding semantics) would be potentially transformative, but the approach falls short of that. We commend the 
+
+Broader impacts, including enhancing diversity and integrating research and education: 
+
+Strengths 
+
+The PI has experience with REU's, and course development and will be training graduate students. 
+
+
+Weaknesses 
+
+There are no details on the user interface demo, and what it would entail. Also a workshop is planned, but it is unclear how this will be done - there is no budget allocation for it - it seems this has not been well thought out. 
+
+
+Results from prior NSF support (if applicable): 
+
+
+Data Management Plan: 
+
+Data will be shared through a website. 
+
+Collaboration Plan (if applicable): 
+
+
+Postdoc Mentoring Plan (if applicable): 
+
+
+Additional suggestions: 
+
+
+Panel recommendation: 
+
+___ Highly competitive 
+___ Competitive 
+___ Low Competitive 
+_X__ Not recommended for funding by panel 
+
+Justification, including key strengths and critical weaknesses: 
+
+There is a mismatch between the specific approach of reinforcement learning with invariance as reward, and the more general question of semantic grounding. 
+
+The summary was read by the panel, and the panel concurred that the summary accurately reflects the panel discussion.
+
+
+Panel Recommendation: Not Recommended for Funding
+
+
+Back to Proposal Status Detail
+
+////////////////////////////////////////////////////////////////////////////
+
+	
+Review #1
+
+
+
+Proposal Number:
+
+ 
+
+1218260
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Computing Systems with Intrinsic Semantics for Enhanced Human-Computer Communication
+
+Rating:
+
+ 
+
+Poor
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+
+How important is the proposed activity to advancing knowledge and understanding within its own field or across different fields? 
+
+This proposal is so poorly organized and jargon-filled that it is nearly impossible to gauge whether or not accomplishing its aims would advance knowledge and understanding in any field. From the perspective of statistics, computer science, and machine learning, the model proposed is trivial and uninteresting. Little will be gained by pursuing its development. 
+
+How well qualified is the proposer (individual or team) to conduct the project? (If appropriate, the reviewer will comment on the quality of prior work.) 
+
+This reviewer is personally unfamiliar with the work of the author. On the surface the proposer seems well-qualified. 
+
+To what extent does the proposed activity suggest and explore creative, original, or potentially transformative concepts? 
+
+The usage of jargon suggests a superficial relationship to many a priori creative, original, and transformative concepts. Despite a thorough review, this reviewer still doesn't appreciate how not overlooking 'intrinsicness' and forming an 'operational recipe' would be transformative. The proposal claims that the proposed approaches to the same are original; however, even if this were true this reviewer would not consider it sufficiently interesting to fund. 
+
+How well conceived and organized is the proposed activity? 
+
+The conceived activity is simple and therefore does not require a great deal of organization. 
+
+Is there sufficient access to resources? 
+
+See above. Yes. 
+
+
+What are the broader impacts of the proposed activity? 
+
+
+How well does the activity advance discovery and understanding while promoting teaching, training, and learning? 
+
+It is not clear at all. 
+
+How well does the proposed activity broaden the participation of underrepresented groups (e.g., gender, ethnicity, disability, geography, etc.)? 
+
+The PI has a good history of supporting underrepresented students. 
+
+To what extent will it enhance the infrastructure for research and education, such as facilities, instrumentation, networks, and partnerships? 
+
+It will not. 
+
+Will the results be disseminated broadly to enhance scientific and technological understanding? What may be the benefits of the proposed activity to society? 
+
+None. 
+
+
+Summary Statement
+
+
+
+////////////////////////////////////////////////////////////////////////////
+
+
+
+	
+Review #2
+
+
+
+Proposal Number:
+
+ 
+
+1218260
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Computing Systems with Intrinsic Semantics for Enhanced Human-Computer Communication
+
+Rating:
+
+ 
+
+Poor
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+This is an ambitious proposal to study the symbol grounding problem using a simulation of reinforcement learning. Unfortunately, it's not clear how the high-level philosophical question relates to the low-level computational simulation. The gap between these two levels remains too great, because there is no mid-level description of "grounding." 
+
+What are the broader impacts of the proposed activity? 
+
+The PI will continue to train REU students, and would like to expand to K-12 students. They will make an effort to include underrepresented minorities. The PI will organize a workshop, and publicize findings in popular magazines and documentary films. 
+
+Summary Statement 
+
+The proposal is too vague about how to relate philosophical to computational research, so it is difficult to be enthusiastic about the proposal.
+
+
+////////////////////////////////////////////////////////////////////////////
+
+	
+Review #3
+
+
+
+Proposal Number:
+
+ 
+
+1218260
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Computing Systems with Intrinsic Semantics for Enhanced Human-Computer Communication
+
+Rating:
+
+ 
+
+Fair
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+This proposal addresses the issues of "intrinsic semantics" and 
+"grounding"; that is, how can the internal processes and actions of 
+computational systems come to be imbued with "meaning" (in the human 
+sense of the word). The PI proposes to use reinforcement learning to 
+have a system learn a map from sensory (here, visual) input to 
+actions, where reinforcement learning rewards actions that keep 
+internal sensory states "invariant". In short, a system's internal 
+sensory state is a pattern of "neural" activations (here, 
+corresponding to visual input), and the system needs to learn what 
+actions (motor primitives) wto perform to remain in the same internal 
+sensory state. As far as I understand it, the PI is claiming that the 
+"meaning" or "semantics" of the sensory signal resides in the learned 
+mapping from sensory state to motor actions. 
+
+The proposed research is to build and test a system that (1) learns 
+simple "edge-following" gaze dynamics, in the form of a mapping from 
+edge orientation detectors to gaze motor controllers; (2) learns more 
+complex mappings that result in appropriate gaze dynamics for 
+geometric shapes. The proposal also describes some proposed 
+human-subject experiments to determine how people judge computer 
+systems with different degrees of "grounding". The PI has done a lot 
+of previous work in the areas of neural computation and 
+neuroinformatics, and seems to be well-read in the philosophical and 
+psychological "symbol grounding" literature. 
+
+While the topic of symbol grounding is fascinating and highly 
+important for the progress of AI, I found this proposal to be weak, 
+both in the specific problems it addresses and in the specific plans 
+to address these problems. The particular reinforcement learning 
+tasks proposed do not seem very novel, and it seemed somewhat 
+arbitrary to define this kind of input-to-action mapping, using an 
+"invariance" heuristic, as "grounding" or "meaning". It is not clear 
+to me how the resulting system, having learned such mappings, can give 
+us additional insight into how to create more general "semantic" AI 
+systems. The proposal would be strengthened by a more in-depth 
+discussion of how the proposed reinforcement learning tasks are novel, 
+and what lessons from the results could be extended to a more general 
+understanding of "grounding". 
+
+Some more specific comments: I wasn't clear on how the "ideal 
+distributions" (e.g., Figure 4(c)), used to evaluate the resulting 
+systems, are obtained, and, if these "ground truth" reward functions 
+are manually constructed, how this would be done as the input becomes 
+more complex. 
+
+The discussion of the possible relation between this work and "mirror 
+neurons" was interesting. However, the PI says "our model provides an 
+explanation of why it [i.e., mirror-neuron-like sensorimotor coupling 
+exists at all levels of the brain] may be so, based on arguments from 
+grounding." I didn't get from the text what this explanation is. 
+
+I found the proposed human experiments hard to understand. It would 
+have been useful to give some examples of the five types of 
+information used to measure "degree of grounding". Also, I'm not sure 
+what, exactly, would be learned from the first ("grounding versus 
+understanding") experiment or from the second experiment ("telling 
+apart manually versus autonomously grounded computing artifacts"), 
+that would be useful in the system-building part of the proposal. 
+
+
+What are the broader impacts of the proposed activity? 
+
+The PI very briefly describes some broader impact activities, 
+including course development, Ph.D. training, and REU opportunities. 
+Not much is said about how outreach will be done to underrepresented 
+groups. Th PI says that part of the project will be the development 
+of a user-interface demo based on the research but no details about 
+this plan are given. Similarly, the PI says that a workshop will be 
+organized on the topics of this proposal, but no details are given 
+about this plan and no budget allocation for a workshop is given. 
+
+
+Summary Statement 
+
+A system that gives insight into how symbol grounding comes about in 
+cognitive beings would be a great advance in AI. However, I don't 
+think the proposed research is likely to lead to such a system, beyond 
+what is already know in reinforcement learning and HCI.
+
+////////////////////////////////////////////////////////////////////////////
+
+	
+Review #4
+
+
+
+Proposal Number:
+
+ 
+
+1218260
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Computing Systems with Intrinsic Semantics for Enhanced Human-Computer Communication
+
+Rating:
+
+ 
+
+Multiple Rating: (Very Good/Good)
+
+
+
+
+REVIEW:
+
+What is the intellectual merit of the proposed activity? 
+
+This proposal addresses the fundamentally important problem of how an agent can learn intrinsic semantics for its knowledge representation, grounded in sensorimotor interaction with an unknown external world. 
+
+Choe is one of a small group of researchers who take seriously the question of whether an AI agent can have a knowledge representation that is not parasitic on the prior knowledge of the system's creator. That is, can it acquire a semantics of its own, from its own experience? 
+
+The basic insight behind the method presented here is that a perceptual feature gains semantics through its association with action under which that feature remains invariant, as exemplified by the perceptual feature of an oriented line segment and the action of moving in that particular orientation. This is a nice example, but it raises the questions of whether invariance is the only way that a feature can gain semantics, and whether various significant perceptual features can be learned by identifying invariants, or through some other path. 
+
+For example, one question addressed by Pierce & Kuipers, 1997; Olssen, Polanyi & Nehaniv, 2006; and Modayil, 2010, is how a sensorimotor agent can learn the structure of a sensor array, such as the pixels in an eye, or the touch sensors on the agent's skin. These methods use similarity of sensor input as an estimate for sensor closeness in the array, and reconstruct the array from these constraints. These methods are similar to dimensionality reduction methods such as IsoMap (Tenenbaum, et al, 2000), but it is not clear how they relate to sensorimotor invariance in Choe's sense, suggesting that his goal requires a broader foundation. 
+
+To be fair, Choe's invariance method does suggest an interesting solution to a puzzle posed by O'Regan and Noe in their well-known 2001 paper. The image of a straight line in the environment on the curved retina of the eye is not only typically not straight, but its curvature changes with the relative orientation of the eye. How then is the evident perceptually invariant straightness of a line recognized? Note that if the fixation point of the gaze moves parallel to the line, the line's image on the retina will remain invariant, however that image happens to be curved. 
+
+The second major task in this proposal is to extend the invariance analysis to hierarchical combinations of primitive features and the motions that preserve them. This is an important next step. An important question is tractability. Meaningful higher-level patterns are likely to be embedded in a much larger set of stimuli that do not form higher-level patterns. It is not clear how the signal is identified amidst the noise. 
+
+The two major tasks involved with human perception of grounded computing artifacts are less compelling, at least to this reviewer. Attribution of "understanding", or whether humans can distinguish between manually and autonomously grounded systems, do not seem as fundamentally important as the basic question of learning complex grounded representations. Furthermore, tricks like those used in the ELIZA system (1963) and its modern descendants can give a compelling illusion of understanding, without any genuine understanding. 
+
+
+What are the broader impacts of the proposed activity? 
+
+The broader impact is quite good. The PI is quite experienced with REUs, and plans to incorporate this into his project, and has succeeded in disseminating his work to the general public through popular scientific magazines, as well as through scholarly publication. 
+
+
+Summary Statement 
+
+These are important issues, and should be investigated. Choe is an experienced researcher and well-qualified to carry this out. The proposed research strikes me as pretty good, but not stellar.
+
+////////////////////////////////////////////////////////////////////////////

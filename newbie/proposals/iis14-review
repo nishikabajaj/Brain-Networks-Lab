@@ -1,0 +1,390 @@
+
+Context Statement
+
+In January 2014, the IIS Division received 752 proposals totaling 651 projects for review in the fiscal year 2014 Small budget class size for the "Information and Intelligent Systems(IIS):Core Programs," solicitation (NSF 13-580). Additional information about the solicitation can be found at http://www.nsf.gov/pubs/2013/nsf13580/nsf13580.htm 
+
+Proposals submitted to the IIS Division in response to the "Information and Intelligent Systems (IIS): Core Programs," solicitation are reviewed in panels to permit comparison of related proposals. In some cases, the Division also seeks the advice of several independent ad hoc reviewers for proposals to complement the evaluations provided by the panel review. In rare cases, proposals will only receive ad hoc review, for instance, if the topic doesn't fit within a scheduled panel. 
+
+Merit review is a critical component of the National Science Foundation's decision-making process for funding research and education projects. Through the use of rigorous, competitive merit review, NSF maintains high standards of excellence and accountability. It enables investments in projects that couple the best ideas from the most capable researchers and educators, with the advancement of discovery and learning and the enrichment of the science and engineering resources. The merit review criteria are: 
+
+1. What is the intellectual merit of the proposed activity? 
+2. What are the broader impacts of the proposed activity? 
+
+Additional information on NSF's merit review criteria can be found at 
+http://www.nsf.gov/bfa/dias/policy/meritreview/; 
+http://www.nsf.gov/pubs/policydocs/pappguide/nsf09_29/gpg_3.jsp 
+
+
+Please refer to the Reviews section above for copies of the reviews and a panel summary, if applicable (on Fastlane at: https://www.fastlane.nsf.gov/jsp/homepage/proposals.jsp). In reading them, please keep in mind that reviewers are addressing their comments primarily to the NSF, not necessarily to you. Remarks are sometimes made without giving detailed references or providing specific suggestions for improvement, although reviewers are encouraged to provide such helpful information. 
+
+Decisions about particular proposals are often very difficult and factors other than reviewer comments and ratings enter into the decision making process. Maintaining appropriate balance among subfields, the availability of other funds, and the total amount of funds available to the program for new and renewal proposals, and general Foundation policies are also important decision factors. 
+
+We encourage revised and resubmitted proposals that substantially address reviewer comments. Investigators are welcome to seek the advice of the Program Director before resubmissions are prepared. In addition, investigators should be aware that the Foundation will treat the revised proposal as a new proposal that will be subject to the standard review procedures. Information about reconsideration of declined proposals is found in NSF's Grant Proposal Guide (Chapter IV), which should be available at your institution, usually at the office that submitted your proposal or on the Web at: http://www.nsf.gov/pubs/policydocs/pappguide/nsf10_1/gpg_index.jsp 
+
+Please note that current IIS program descriptions, proposal submission deadlines, and other information items can be found on the WWW at http://www.nsf.gov/div/index.jsp?org=IIS. We also encourage examination of the NSF information at www.nsf.gov for announcements of new NSF-wide funding opportunities and other items of interest to the research community.
+
+ 
+
+----------------------------------------------------------------------------
+
+Panel Summary #1
+
+￼
+￼
+Proposal Number: 1421099
+
+Panel Summary: 
+Panel Summary 
+
+Division of Information and Intelligent Systems 
+Robust Intelligence program 13-580 
+
+This proposal compares the performance of visual texture discrimination models using standard visual receptive fields and receptive fields inspired by tactile texture discrimination. Preliminary data are included showing that training visual models with textures leads to somatosensory-like receptive fields, while training on natural scenes leads to visual-like receptive fields. 
+
+- Strengths 
+
+The proposal is offered as "breakthrough" proposal for the novelty of integrating thinking from the two sensory domains. The perspective of examining texture processing with tactile insights (instead of vision) is indeed novel. 
+
+The proposal is well written, well thought out, and with good preliminary data. The PI has shown that he is capable of doing what he proposes. Reviewers liked the consideration of motor trajectories and were interested in the the prospects of this work as an example of active sensation. The model using tactile-like receptive fields was able to detect texture boundaries. 
+
+- Weaknesses 
+
+Weakness - Although billed as a breakthrough, the work did not appear transformative, since the modeling was perceived to be a slight tweak on standard visual processing algorithms. 
+
+Reduced enthusiasm for this work centered on the criticism that the work does not engage the literature of tactile texture perception. In this vein, the mechanisms of texture discrimination are set up to resemble visual processing to a degree that was perceived as artificial or unaware of the background literature in tactile texture discrimination. Tactile texture perception may be based more on a temporal analysis of skin vibrations elicited during texture scanning - essentially working in a Fourier framework rather than a spatial framework. 
+
+The receptive field analysis seemed simplistic, and it was not surprising that Gabor-like receptive fields did not materialize for textures since there are few strong edges in texture images. 
+
+Broader impacts, including enhancing diversity and integrating research and education: 
+
+- Strengths 
+Broader impacts were good. 
+Multi-component. The PI has an REU 
+
+- Weaknesses 
+NA 
+
+
+Results from prior NSF support (if applicable): 
+
+Fine 
+
+Data Management Plan: 
+
+Fine 
+
+Postdoc Mentoring Plan (if applicable): 
+
+Fine 
+
+Additional suggestions: 
+
+NA 
+
+
+Panel recommendation: 
+__ Highly competitive 
+x_ Competitive 
+__ Low Competitive 
+__ Not recommended for funding by panel 
+
+
+Justification, including key strengths and critical weaknesses: 
+
+Key strength - crossing boundaries/ interdisciplinary. 
+
+Key weakness - the boundary was not crossed far enough - the setup is artificially visual in structure. 
+
+The summary was read by the panel, and the panel concurred that the summary accurately reflects the panel discussion.
+
+
+Panel Recommendation: Competitive
+
+----------------------------------------------------------------------------
+
+Review #1
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1421099
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Tactile vs. Visual Exploration of Texture
+
+Rating:
+
+ 
+
+Good
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+This proposal aims to understand texture processing, by comparing vision and somatosensory modalities. I found the main motivation for understanding tactile processing of texture, and using such approaches to aid in visual texture processing, of interest. It has the potential to advance our understanding of how texture is processed in neural systems, by placing emphasis on a complementary system of tactile processing. 
+
+While I found the main idea interesting, I thought some aspects could be better motivated. The main emphasis in the proposal of what can be gained by tactile processing are the receptive fields (i.e., using tactile like receptive fields in visual texture paradigms). The emphasis on RF structure seems a bit simple given more complex aspects known about texture from vision. Textures contain combinations of orientations and features, and there is some evidence that in vision V2 and V4 are more effective for processing texture than V1. There is generally not much discussion on the merits of this versus other existing texture models, although they are mentioned. It was also not clear to me what it is about the statistical structure of textures versus natural scenes that lead to tactile-like RFs (and how would this compare to transforms such as ICA for the inputs you are using?). In addition, the tactile RFs will be used with visual input, and I think this should be stated and motivated more strongly upfront (i.e., you are not using somato-sensory inputs in this project). I found the active control in tactile-like potentially very interesting, and I would consider if this might also relate to active contol in eye movements studies. 
+
+The project is listed as a breakthrough proposal. I think the focus on texture in somatosensory rather than vision is innovative and has the potential for new directions in the field. The risk does not seem large as also noted in the proposal, since pieces have already been done by the PI and there is preliminary data. 
+
+The proposal includes a concrete plan for the aims. The significance of some of the specific aims could be clarified, such as the importance of salience threshold. It is possible that reducing the number of aims and expanding upon some of the others would strengthen the proposal. 
+
+The proposal includes preliminary data, and it is clear that the PI has expertise to carry out the aims. 
+
+The PI has adequate resources to carry out the project at the institution. 
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+Broad impacts include curriculum development - new interdisciplinary course, mentoring undergraduate including under-represented, K-12 outreach, and organizing a multidisciplinary meeting for texture research in computer vision and tactile research 
+in neuroscience. The code and data will be made accessible to the public (and will use the 
+LISSOM open-source neural map simulator). 
+
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+The goal of using tactile processing knowledge to gain insights into texture processing is interesting and novel. The emphasis on RF structure seems a bit simple given more complex aspects known about vision. The aims could be better motivated, and more explanation about why training on textures should lead to tactile-like structures in the model.
+
+
+----------------------------------------------------------------------------
+
+	
+Review #2
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1421099
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Tactile vs. Visual Exploration of Texture
+
+Rating:
+
+ 
+
+Good
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+The proposal centers around a notion that texture is a property of touch and thus, tactile receptive fields would be a better filter than visual receptive fields (such as Gabor filters) in visual tasks. 
+
+This is an interesting position and the PI lists several research questions, when answered, would lend more supports to the notion. The PI also has a few previous work in the proposed direction. (Some of the work received recognition as best paper awards). 
+
+While being interesting, I found that the validation strategy (for confirming a hypothesis) seems to be weak. The proposed research questions largely focus on understanding the differences from visual receptive fields. They do not address adequate how useful the tactile receptive fields are in visual processing. 
+
+For example, I do not see any serious evaluation plan on visual recognition tasks. Such datasets are abundant: it is fairly easy to see a comparison on using two different receptive fields and their combination (this possibility is indeed discussed in the proposal) for extracting visual features for classification. Moreover, careful analysis of recognition results (for example, what type of objects gets classified correctly more often and whether that type of objects has more texture features.) 
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+Broader impact: The PI plans to leverage REU site's program for undergraduate and under-represented groups. The PI's lab also hosts high school students and the PI himself is involved with several activities in K-12 outreach. 
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+Interesting and fresh idea but evaluation plan a bit unsatisfactory
+
+----------------------------------------------------------------------------
+
+Review #3
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1421099
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Tactile vs. Visual Exploration of Texture
+
+Rating:
+
+ 
+
+Very Good
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+The goal of this proposal is to investigate the relationship between texture and the tactile processes modeled after the somatosensory system (especially, tactile receptive fields). This research will systematically examine the relationship between touch and texture, by contrasting it to the relationship between vision and natural scenes. 
+
+Strengths. 
+
+This is a strong proposal that addresses an interesting topic in neuroscience in a rigorous computational manner. Specifically, the PI will address the difference between tactile and visual receptive fields in response to textures. It also makes predictions on how these different receptive fields develop in the brain. The prediction is that tactile receptive fields are better tuned to categorize textures than visual receptive fields. 
+
+The aims, experiments, and research assessment are well thought out and very clear. Each question asked has the appropriate experiment to go with it. The proposal predicts that: 1) tactile RFs develop based on experience with textures. 2) tactile RFs are better at discriminating texture than visual RFs. 3) tactile RFs are coupled with motor explanation. Each experiment addresses issues that may arise in the experiments. 
+
+The PI is an expert in this area. Has written some very interesting papers on the topic of texture and receptive fields. 
+
+The PI and his team have constructed a simulation environment, specifically to address how receptive fields and topographical maps develop. 
+
+The facilities are adequate. 
+
+Weaknesses. 
+
+One weakness may be that this is not transformative. But, I do think the proposal brings up important issues and the proposed work would make a strong contribution to neuroscience and information processing. 
+
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+Broader impact plan is very good. There is an education plan at multiple levels. The PI is active in outreach programs. The plan calls for workshops. The software simulator Topographica is open source and publicly available. 
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+Proposal is a good fit for Robust Intelligence. 
+
+Summary Statement 
+
+The proposed research addresses some fundamental issues with receptive field development and the interaction between natural scenes and sensory modalities. The proposal is solid throughout with well designed experiments and clear metrics.
+
+----------------------------------------------------------------------------
+
+Review #4
+
+￼
+￼
+Proposal Number:
+
+ 
+
+1421099
+
+NSF Program:
+
+ 
+
+Robust Intelligence
+
+Principal Investigator:
+
+ 
+
+Choe, Yoonsuck
+
+Proposal Title:
+
+ 
+
+RI: Small: Tactile vs. Visual Exploration of Texture
+
+Rating:
+
+ 
+
+Good
+
+
+￼
+
+REVIEW:
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to intellectual merit. 
+
+The main strength of the proposal is in the realization that the sense of touch is better at discerning texture than is vision. The computational and modeling aspects of the proposal are strong as well. The PI is very strong in texture analysis and computational modeling and has adequate resources to carry out the project. 
+However, my enthusiasm for the proposal is significantly dampened by the fact that the proposal draws very little if anything from previous work on tactile texture perception, which goes back at least 40 years. There is not a single reference to published work on tactile texture perception in the paper (and only 4 or 5 references to tactile processing, most of which from a single study by DiCarlo and Johnson). Here are some major limitations of the proposed course of research: 
+1. In the proposed study, the only difference between visual and tactile processing is, as far as I can glean from the proposal, a different RF geometry and the inclusion of lagging inhibition in the tactile RFs. So, in fact, "tactile" texture perception is very vision-like in that it involves a spatial analysis of the image. Recent studies suggest that the more powerful mechanism in tactile texture perception is one based on a temporal analysis of skin vibrations elicited during texture scanning: Textures are distinguished based on differences in the frequency composition of the neuronal signals they produce, which themselves reflect the texture-specific skin vibrations. Such a mechanism could readily be implemented in "computer vision," and would constitute a significant departure from existing texture segmentation and identification algorithms. 
+2. The sense of touch is not very good at discerning *boundaries* between textures, certainly not nearly as good as is the visual system. It is therefore strange that the tactile RFs would do better at boundary detection than do the visual RFs. I don't question the results, just question the attribution of this performance advantage to touch per se. 
+3. Tactile receptive fields have been relatively well accounted for using Gabor Filters and lead to orientation selectivity in neurons, as shown by DiCarlo and Johnson as well as others. Tactile information about edge orientation is important for manipulating objects and recognizing them by touch. In this way, the sense of touch is very similar to vision. Ultimately, the difference between the visual and tactile texture RFs is quantitative rather than qualitative. Implementing the aforementioned temporal mechanism would be a much more significant departure from existing vision-based models of texture analysis. 
+
+The question is: what it is about the tactile RFs that make them better than visual RFs at texture processing? Is it their shape? Is it the lagging inhibition? Both? This needs to be spelled out more clearly. Also, the modeling finding that a network trained on "natural scenes" will lead to the formation of Gabor-like RFs while training the network on textures will not, while cool, is not very surprising: Natural scenes comprise edges while textures much less so. So natural scenes will lead to more edge-detectors (and thus more Gabor-like RFs) than will textures. 
+
+In the context of the five review elements, please 
+evaluate the strengths and weaknesses of the proposal with respect to broader impacts. 
+
+Analysis of texture is a worthwhile endeavor that will have many applications in computer vision. The education and dissemination plan is strong. One of the main strengths of the proposal is its interdisciplinary approach, which draws in equal parts from computer science and neuroscience. The component relating to visual neuroscience, however, is much stronger than that relating to somatosensory neuroscience (as discussed above). The educational component is well thought out and strong. The idea of organizing a multidisciplinary meeting with visual and tactile texture researchers as well as computer scientists is promising. 
+
+Please evaluate the strengths and 
+weaknesses of the proposal with respect to any additional solicitation-specific review criteria, if 
+applicable 
+
+
+
+Summary Statement 
+
+The PI proposes to incorporate ideas from tactile texture processing to develop algorithms for computerized texture segmentation and identification. While the idea that the sense of touch is better at texture processing than is vision is a promising one, the implementation of this idea is relatively weak, largely due to a seeming lack of exposure to the rather extensive literature on tactile texture processing. In particular, it is not clear that the work constitutes a significant departure from existing vision-based approaches, because the proposed touch-based seems to be a slight tweak on the visual one. However, the modeling and computational work is very strong, and the PI is very well suited to tackle this problem.
+
